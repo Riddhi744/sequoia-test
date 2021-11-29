@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "714006526517",
+    "firebase_url": "https://tempapplication-cdf6c.firebaseio.com",
+    "project_id": "tempapplication-cdf6c",
+    "storage_bucket": "tempapplication-cdf6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714006526517:android:81d33a2e279c956bc04f7c",
+        "android_client_info": {
+          "package_name": "com.example.analytics_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714006526517-rhqv5g4otqoj8vhr3c73dqjb7pdbedlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9C3jkMyqThadjAnV2GG4ACi8_jTI-UiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714006526517-rhqv5g4otqoj8vhr3c73dqjb7pdbedlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714006526517:android:aa33557ebcf56579c04f7c",
+        "android_client_info": {
+          "package_name": "com.example.sequa_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714006526517-rhqv5g4otqoj8vhr3c73dqjb7pdbedlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9C3jkMyqThadjAnV2GG4ACi8_jTI-UiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714006526517-rhqv5g4otqoj8vhr3c73dqjb7pdbedlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714006526517:android:ac8912a759bc7817c04f7c",
+        "android_client_info": {
+          "package_name": "com.example.tempapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714006526517-rhqv5g4otqoj8vhr3c73dqjb7pdbedlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9C3jkMyqThadjAnV2GG4ACi8_jTI-UiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714006526517-rhqv5g4otqoj8vhr3c73dqjb7pdbedlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
